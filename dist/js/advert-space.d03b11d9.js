@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkedu_boss_fed_vue2"]=self["webpackChunkedu_boss_fed_vue2"]||[]).push([[558],{3247:function(e,s,u){u.r(s),u.d(s,{default:function(){return f}});var n=function(){var e=this,s=e._self._c;return s("div",{staticClass:"advert-space"},[e._v("广告位管理")])},t=[],a={name:"AdvertSpaceIndex"},r=a,c=u(1001),d=(0,c.Z)(r,n,t,!1,null,"49a74b36",null),f=d.exports}}]);
+//# sourceMappingURL=advert-space.d03b11d9.js.map

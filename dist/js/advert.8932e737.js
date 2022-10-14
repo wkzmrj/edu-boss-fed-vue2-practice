@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkedu_boss_fed_vue2"]=self["webpackChunkedu_boss_fed_vue2"]||[]).push([[966],{2389:function(e,u,s){s.r(u),s.d(u,{default:function(){return l}});var n=function(){var e=this,u=e._self._c;return u("div",{staticClass:"advert"},[e._v("广告管理")])},t=[],d={name:"AdvertIndex"},r=d,a=s(1001),f=(0,a.Z)(r,n,t,!1,null,"27167d89",null),l=f.exports}}]);
+//# sourceMappingURL=advert.8932e737.js.map
